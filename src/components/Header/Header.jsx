@@ -3,7 +3,7 @@
 const Header = () => {
     return (
         <div>
-            <a href="">home</a>
+            <a href="/">home</a>
             <a href="/about">About</a>
             <a href="/contact">Contact</a>
         </div>
